@@ -1,0 +1,8 @@
+C:\Users\bodyk\source\repos\League of Legends clone\League of Legends clone\bin\Debug\League of Legends clone.exe.config
+C:\Users\bodyk\source\repos\League of Legends clone\League of Legends clone\bin\Debug\League of Legends clone.exe
+C:\Users\bodyk\source\repos\League of Legends clone\League of Legends clone\bin\Debug\League of Legends clone.pdb
+C:\Users\bodyk\source\repos\League of Legends clone\League of Legends clone\obj\Debug\League of Legends clone.csproj.AssemblyReference.cache
+C:\Users\bodyk\source\repos\League of Legends clone\League of Legends clone\obj\Debug\League of Legends clone.csproj.SuggestedBindingRedirects.cache
+C:\Users\bodyk\source\repos\League of Legends clone\League of Legends clone\obj\Debug\League of Legends clone.csproj.CoreCompileInputs.cache
+C:\Users\bodyk\source\repos\League of Legends clone\League of Legends clone\obj\Debug\League of Legends clone.exe
+C:\Users\bodyk\source\repos\League of Legends clone\League of Legends clone\obj\Debug\League of Legends clone.pdb

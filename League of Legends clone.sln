@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "League of Legends clone", "League of Legends clone\League of Legends clone.csproj", "{4DEC16AD-80C1-4D16-9B4A-99C369F3A122}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DEC16AD-80C1-4D16-9B4A-99C369F3A122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DEC16AD-80C1-4D16-9B4A-99C369F3A122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DEC16AD-80C1-4D16-9B4A-99C369F3A122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DEC16AD-80C1-4D16-9B4A-99C369F3A122}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E419104-7F3C-41B3-B826-5E12300C07C3}
+	EndGlobalSection
+EndGlobal
